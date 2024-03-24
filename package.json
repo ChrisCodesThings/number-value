@@ -1,6 +1,6 @@
 {
   "name": "@chriscodesthings/number-value",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Function to return the value of a number, in number or string format",
   "keywords": [
     "number",
